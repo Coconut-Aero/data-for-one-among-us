@@ -14,13 +14,16 @@ info:
 
 ## Description
 
-Menma was a kind and gentle transgender girl who deeply loved Menma from *Anohana: The Flower We Saw That Day*. She used this ID across almost all her social media platforms. Unfortunately, just like Menma, she has left us. This time, there may not be another reunion ten years later in August.
+Menma was a kind and gentle transgender girl who deeply loved Menma from *Anohana: The Flower We Saw That Day*. She used this ID across her accounts in almost all social media platforms she used. Unfortunately, just like Menma, she has left us. 
+While this time, there may not be another reunion ten years later in August.
 
-As a witness to the transition period of Twitter (now X), Menma had been active in the Chinese-speaking community since registering her account in September 2022. While sharing her personal life, she also revealed her thoughts and explorations about her identity, family, and role in society.
+As a witness to the transition period of Twitter (now X), Menma had been active in the Chinese Community since registering her account in September 2022. While sharing her personal life, she also revealed her thoughts and explorations about her identity, family, and role in society.
 
-She continuously moved forward on the path of self-discovery, despite the many hardships along the way. Even when she was trapped in difficulties, she never stopped exploring herself. The postcards and letters she sent expressed not only her care and love for others but also left valuable traces of her self-exploration.
+She was continuously moving forward on the path of self-discovery, despite those many hardships along the way. Even at the time she got trapped in difficulties, she had never stopped exploring herself. Those postcards and letters she sent expressed not only her care and love for others but also valuable traces of her self-exploration.
 
-Her interests were diverse, including fishing, stamp collecting, singing, and traveling. Back in high school, because she often drank tea, read newspapers, and went fishing, she was jokingly called "Grandpa Chen（陈大爷）." She was also highly talented—proficient in both Japanese and English, and fond of writing playful poems. Most importantly, she cherished friendships, always fearing that she might hurt others. To avoid worrying her friends, she hid her pain even from her closest companions but was always willing to listen when others needed to talk.
+Her interests were diverse in many aspects, including fishing, stamp collecting, singing, and traveling. Back to her high school, because of her interests in dranking tea, reading newspapers, and fishing, she was jokingly called "Grandpa Chen（陈大爷）." She had also got highly talented—proficiency in both Japanese and English, and was fond of writing playful poems. Most importantly, she cherished friendships, always fearing that she might hurt others. To avoid worrying her friends, she hid her pain even from her closest companions but was always willing to listen when others needed to talk.
+
+**------ last edited @28.02.25 01:07**
 
 Despite bearing both physical and emotional burdens, she still took care of her friends (even those she had never met in person) and meticulously planned itineraries and meals. When she learned about her friends' tight schedules and food preferences, she always came up with reliable solutions. The moments she shared with them became cherished memories. She was not the weak and fragile child that stereotypes might suggest—she was a dependable "senpai" whom others could rely on and a trustworthy "teacher."
 
