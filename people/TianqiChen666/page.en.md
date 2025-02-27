@@ -5,6 +5,13 @@ info:
   location: Chengdu, Sichuan
 ---
 
+<PhotoScroll photos={[ 
+  '${path}/photos/memories_1.jpg',
+  '${path}/photos/memories_2.jpg',
+  '${path}/photos/memories_3.jpg',
+  '${path}/photos/memories_4.jpg',
+]} />  
+
 ## Description
 
 Menma was a kind and gentle transgender girl who deeply loved Menma from *Anohana: The Flower We Saw That Day*. She used this ID across almost all her social media platforms. Unfortunately, just like Menma, she has left us. This time, there may not be another reunion ten years later in August.
@@ -23,19 +30,27 @@ On her journey of self-exploration, Menma maintained a spirit of learning and pe
 
 Today, Menma has completed her journey of self-discovery. Let us all remember her words, care for those around us, and keep moving forward, striving to fulfill the dreams and hopes for a better life that she once held.
 
-> As she said, she has set off  
-> In search of the gods  
->
-> Thus, she faced everything  
-> She faced this dark world  
-> She faced the void  
+> As said 
+> 
+> That is why she walks 
+> 
+> To find this god 
+> 
+> 
+> And so she faces it
+> 
+> The world of black 
+> 
+> The Void
 
 ## Their Departure and Our Memorial
 
 While bringing joy to others, Menma herself endured immense physical and emotional suffering. She had diabetes, hyperglycemia, hair loss, premature graying, and fatty liver disease caused by multiple complications. After failing the college entrance exam, she was only able to enroll at Xihua Normal University. Struggling with a poor school environment and her ambitious spirit, she took on multiple responsibilities—joining the student union, participating in research projects, and preparing for the JLPT N2 exam—all at the same time. Later, her father went through her phone, threatened her partner, and even "outed" her, adding even more pressure. The oppressive family environment and the burdens of life shrouded her path of self-discovery in mist. She had tried many ways to resist the pressure from her family, but in the end, she could bear it no longer. Under the constant surveillance and high-pressure control of her mother, and after carrying the weight of life’s struggles for so long, she made her final decision. After completing a nationwide trip, she drank a lethal solution in the presence of many Twitter Chinese-speaking community members, peacefully falling into an eternal slumber.
 
 > You know…  
+>
 > I don’t think I can hold on until that day.  
+>
 > Everything feels like a hallucination before death.  
 
 <PhotoScroll photos={[ '${path}/photos/last_words.jpg',]} />  
@@ -50,5 +65,5 @@ Although she lost her battle with bipolar disorder, she left us with smiles thro
 Good night, Menma.  
 This time, in our game of hide and seek, we truly cannot find you anymore.
 
-The above content is adapted from the work of @铨茗居 and @洛忆雨Yiur~川渝暴龙三号体进化！！(●• ̀ω•́ )✧ , which can be accessed through [this link](https://x.com/misumiaoi06/status/1894661004329717916). The translation was done by ChatGPT. Feel free to submit any suggestions or comments on the translation issues.
+The above content is adapted from the work of 铨茗居，氯鸮西泮，逍遥思诚，沐栖仲鹭，洛忆雨, which can be accessed through [this link](https://x.com/misumiaoi06/status/1894661004329717916). The translation was done by ChatGPT. Feel free to submit any suggestions or comments on the translation issues.
 
