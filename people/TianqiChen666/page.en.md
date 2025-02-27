@@ -1,33 +1,54 @@
 ---
 name: memma
 info:
-  alias: memma
+  alias: めんま，面码，memma
   location: Chengdu, Sichuan
 ---
 
 ## Description
 
-As a witness of the transition from the old to the new on Twitter (now X), Ms. Menma had been active in the Chinese section of Twitter (now X) since registering her account in September 2022. While sharing rich details of her personal life, she also delved into her thoughts on her roles in her own life, her family, and society.
+Menma was a kind and gentle transgender girl who deeply loved Menma from *Anohana: The Flower We Saw That Day*. She used this ID across almost all her social media platforms. Unfortunately, just like Menma, she has left us. This time, there may not be another reunion ten years later in August.
 
-She kept moving forward on the journey of exploring her own identity, a journey full of ups and downs. But even though she felt trapped on this journey, she never stopped her self-exploration. The postcards and letters she sent not only expressed her care and love for others but also left precious footprints for her own self-discovery.
+As a witness to the transition period of Twitter (now X), Menma had been active in the Chinese-speaking community since registering her account in September 2022. While sharing her personal life, she also revealed her thoughts and explorations about her identity, family, and role in society.
 
-Throughout her journey of self-exploration, Menma maintained a learning attitude and an enterprising spirit, always treating other users in the Chinese community with her consistent cheerfulness. At the same time, her thoughts remained pure, and she always presented herself with a consistent attitude. She brought joy to everyone in the Chinese community with her memes, yet carried all the pressures of life, family, and relationships on her own shoulders.
+She continuously moved forward on the path of self-discovery, despite the many hardships along the way. Even when she was trapped in difficulties, she never stopped exploring herself. The postcards and letters she sent expressed not only her care and love for others but also left valuable traces of her self-exploration.
 
-Menma completed her self-awareness and exploration today. I hope you will remember her wishes and actively care for those around you. At the same time, we will continue to move forward and fulfill Ms. Menma’s unfinished hopes and dreams for a better life.
+Her interests were diverse, including fishing, stamp collecting, singing, and traveling. Back in high school, because she often drank tea, read newspapers, and went fishing, she was jokingly called "Grandpa Chen（陈大爷）." She was also highly talented—proficient in both Japanese and English, and fond of writing playful poems. Most importantly, she cherished friendships, always fearing that she might hurt others. To avoid worrying her friends, she hid her pain even from her closest companions but was always willing to listen when others needed to talk.
 
-> As said 
-> That is why she walks 
-> To find this god 
-> 
-> And so she faces it
-> The world of black 
-> The Void
+Despite bearing both physical and emotional burdens, she still took care of her friends (even those she had never met in person) and meticulously planned itineraries and meals. When she learned about her friends' tight schedules and food preferences, she always came up with reliable solutions. The moments she shared with them became cherished memories. She was not the weak and fragile child that stereotypes might suggest—she was a dependable "senpai" whom others could rely on and a trustworthy "teacher."
+
+As a dedicated *Kiger*, she cosplayed Arona and Atori. For her, putting on a headpiece and hugging a shark plushie was her way of immersing herself in her own world.
+
+On her journey of self-exploration, Menma maintained a spirit of learning and perseverance. She continued to engage with the Chinese-speaking community with her characteristic optimism while staying true to her pure and sincere beliefs. She brought joy to others by sharing memes, yet she carried all the burdens of life, family, and relationships on her own shoulders.
+
+Today, Menma has completed her journey of self-discovery. Let us all remember her words, care for those around us, and keep moving forward, striving to fulfill the dreams and hopes for a better life that she once held.
+
+> As she said, she has set off  
+> In search of the gods  
+>
+> Thus, she faced everything  
+> She faced this dark world  
+> She faced the void  
 
 ## Their Departure and Our Memorial
 
-Ms. Menma brought joy to everyone, but her body and mind were tortured. She suffered from diabetes, high blood sugar, hair loss, gray hair, and fatty liver caused by complications of several diseases. At the same time, due to the oppressive family environment, her journey of self-exploration was always shrouded in uncertainty. She tried many ways to resist the pressure from her family, but eventually, she was overwhelmed.Under the constant surveillance of her mother and the pressures of life, after completing her national trip, she took a lethal dose of a drug solution. Many users from the Chinese Twitter community accompanied her in this final moment, and she fell asleep forever.
+While bringing joy to others, Menma herself endured immense physical and emotional suffering. She had diabetes, hyperglycemia, hair loss, premature graying, and fatty liver disease caused by multiple complications. After failing the college entrance exam, she was only able to enroll at Xihua Normal University. Struggling with a poor school environment and her ambitious spirit, she took on multiple responsibilities—joining the student union, participating in research projects, and preparing for the JLPT N2 exam—all at the same time. Later, her father went through her phone, threatened her partner, and even "outed" her, adding even more pressure. The oppressive family environment and the burdens of life shrouded her path of self-discovery in mist. She had tried many ways to resist the pressure from her family, but in the end, she could bear it no longer. Under the constant surveillance and high-pressure control of her mother, and after carrying the weight of life’s struggles for so long, she made her final decision. After completing a nationwide trip, she drank a lethal solution in the presence of many Twitter Chinese-speaking community members, peacefully falling into an eternal slumber.
 
-Our dear Ms. Menma passed away from sodium nitrite poisoning in Nanchong City, Sichuan Province, in the early hours of February 26, 2025, at the age of 19.
+> You know…  
+> I don’t think I can hold on until that day.  
+> Everything feels like a hallucination before death.  
 
-The above content is adapted from the work of @铨茗居, which can be accessed through [this link](https://x.com/misumiaoi06/status/1894661004329717916). The translation was done by ChatGPT. Feel free to submit any suggestions or comments on the translation issues.
+<PhotoScroll photos={[ '${path}/photos/last_words.jpg',]} />  
+
+A few hours after saying these words, she left us forever.  
+She was reduced to a small box of ashes, scattered into the Jialing River, resting in the beloved fishing spot she cherished.
+
+Our dear Menma passed away in the early hours of February 26, 2025, in Nanchong, Sichuan Province, due to drug poisoning. She was just shy of her nineteenth birthday.
+
+Although she lost her battle with bipolar disorder, she left us with smiles through her memes and traces of her presence across the internet.
+
+Good night, Menma.  
+This time, in our game of hide and seek, we truly cannot find you anymore.
+
+The above content is adapted from the work of @铨茗居 and @洛忆雨Yiur~川渝暴龙三号体进化！！(●• ̀ω•́ )✧ , which can be accessed through [this link](https://x.com/misumiaoi06/status/1894661004329717916). The translation was done by ChatGPT. Feel free to submit any suggestions or comments on the translation issues.
 
