@@ -1,7 +1,7 @@
 ---
 name: memma
 info:
-  alias: めんま，面码，memma
+  alias: めんま，面码，menma
   location: Chengdu, Sichuan
 ---
 
@@ -58,7 +58,7 @@ While bringing joy to others, Menma herself endured immense physical and emotion
 A few hours after saying these words, she left us forever.  
 She was reduced to a small box of ashes, scattered into the Jialing River, resting in the beloved fishing spot she cherished.
 
-Our dear Menma passed away in the early hours of February 26, 2025, in Nanchong, Sichuan Province, due to drug poisoning. She was just shy of her nineteenth birthday.
+Our dear Menma passed away in the early hours of February 26, 2025, in Nanchong, Sichuan Province, due to drug poisoning. She just celebrated her nineteenth birthday 1 month ago.
 
 Although she lost her battle with bipolar disorder, she left us with smiles through her memes and traces of her presence across the internet.
 

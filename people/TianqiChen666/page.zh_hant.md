@@ -1,7 +1,7 @@
 ---
 name: めんま
 info:
-  alias: めんま，面码，memma
+  alias: めんま，面码，menma
   location: 四川成都
 ---
 
